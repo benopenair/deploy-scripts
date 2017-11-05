@@ -18,8 +18,7 @@ SRC_MASTER_URL="http://192.168.56.154:8080"
 
 #SERVER
 #ben SERVERS="ubuntu@<your-app-server-ip>"
-#ben SERVERS="ubuntu@192.168.56.155"
-SERVERS="root@192.168.56.155"
+SERVERS="ubuntu@192.168.56.154"
 SERVER_DOCKER_PATH="/var/dockers/$SITE_NAME"
 SERVER_SOURCE_PATH="/var/www/$SITE_NAME"
 
